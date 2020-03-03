@@ -1,0 +1,11 @@
+百度为您找到相关结果约15,000,000个
+ResourceTree 使用 - 简书
+2018年3月19日 - 下载安装sourcetree,完成后的步骤: 1. 如下图,首先向公司要项目地址及你的账户和密码,一般公司会直接告诉你的。打开sourcetree 点击新仓库,选择从URL...
+简书社区 - 百度快照
+SourceTree的基本使用 - 天字天蝎 - 博客园
+2017年1月9日 - 1. SourceTree是什么 拥有可视化界面的项目版本控制软件,适用于git项目管理 ...在预览中可看到,feature分支是从develop分出的,输入功能名称,点击确定,...
+https://www.cnblogs.com/tian-x...  - 百度快照
+resourcetree中的拉取和获取有什么区别 - zhongzunfa的..._CSDN博客
+2018年6月10日 - resourcetree中的拉取和获取有什么区别 1、命令式解释: 前者是 pull,后者是 fetch,pull 等于 fetch + merge。 2、大白话解释: 拉取会把你本地仓库没有...
+CSDN技术社区 - 百度快照
+SourceTree安装与使用方法 - chan
